@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CristaRonaldo7
+- 👋 Hi, I’m @azim
 - 👀 I’m interested in football, astronomy and coding
 - 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on python
